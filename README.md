@@ -1,6 +1,6 @@
-`nasa` provides a simple Python wrapper to interact with the [NASA Data APIs](https://data.nasa.gov/developer/external/planetary/). Full documentation for the APIs is available on [NASA's site](https://data.nasa.gov/developer/external/planetary/), and named parameters here are the same as there.
+This is a fork of a repo that provides a simple Python wrapper to interact with the [NASA Data APIs](https://data.nasa.gov/developer/external/planetary/). It does not cover what I needed, so I forked it to add what I do need.
 
-This is a fork which should be obvious. The plan with this fork is to extend it to further portions of NASA's API.
+Full documentation for the APIs is available on [NASA's site](https://data.nasa.gov/developer/external/planetary/), and named parameters here are the same as there.
 
 Usage
 -----
